@@ -1,0 +1,26 @@
+{
+    "all off": {
+        "valve_1_button": false,
+        "valve_2_button": false,
+        "valve_3_button": false,
+        "valve_4_button": false
+    },
+    "all on": {
+        "valve_1_button": true,
+        "valve_2_button": true,
+        "valve_3_button": true,
+        "valve_4_button": true
+    },
+    "left on": {
+        "valve_1_button": true,
+        "valve_2_button": true,
+        "valve_3_button": false,
+        "valve_4_button": false
+    },
+    "right on": {
+        "valve_1_button": false,
+        "valve_2_button": false,
+        "valve_3_button": true,
+        "valve_4_button": true
+    }
+}
