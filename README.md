@@ -3,7 +3,7 @@
 Windows/Linux GUI for the serial valve controller.
 
 ```
-git clone <repo-url> && cd <repo>
+git clone https://github.com/nolan-cummins/valve-controller.git && cd valve-controller
 uv sync
 uv run valve-controller
 ```
